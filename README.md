@@ -2,7 +2,7 @@
 </div>  
   
 
-### <div align="center">Building intelligent, scalable systems at the intersection of AI/ML, data, cloud, and software engineering since 2016 🚀</div>  
+### <div align="left">Building intelligent, scalable systems at the intersection of AI/ML, data, cloud, and software engineering since 2016 🚀</div>  
   
 
 - 🔭 Currently researching novel ML techniques to power FinTech innovation in emerging economies.  
@@ -17,7 +17,7 @@
 <br/>  
 
 
-### I work with  
+### My toolkit includes...  
 <table><tr><td valign="top" width="33%">
 
 
@@ -170,7 +170,7 @@
 <br/>  
 
 
-## Connect with me  
+## Reach me on...  
 <div align="center">
 <a href="https://dev.to/nerdghost" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
