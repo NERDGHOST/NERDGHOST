@@ -8,7 +8,7 @@
 - 🔭 Currently researching novel ML techniques to power FinTech innovation in emerging economies.  
   
 
-- ❓ AI/ML systems, data engineering, cloud architectures (AWS | Azure | GCP), scalable software design, and building secure FinTech solutions.  
+- ❓ Ask me about AI/ML systems, data engineering, cloud architectures (AWS | Azure | GCP), scalable software design, and building secure FinTech solutions.  
   
 
 - ⚡ Fun fact: I am obsessed with making codebases performant and ✨*elegant*✨.  
